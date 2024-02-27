@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81955523162",
+    "project_id": "kartek-case",
+    "storage_bucket": "kartek-case.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81955523162:android:cb645f831a0585aa572663",
+        "android_client_info": {
+          "package_name": "com.example.andac_case"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscbb3hTlHEtQ-1ETNFCCBTMCIeTH8AT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
